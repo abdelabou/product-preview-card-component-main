@@ -51,7 +51,7 @@ article {
   display: flex;
   flex-direction: column;
   width: 90%;
-  max-width: 476;
+  max-width: 600px;
   margin: auto;
   border-radius: 1rem;
   background-color: var(--white);
@@ -181,6 +181,6 @@ button:active {
 
   section {
     justify-content: space-around;
-    padding: 2rem;
+    padding: 1rem;
   }
 }
